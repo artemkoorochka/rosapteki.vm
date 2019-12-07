@@ -1,0 +1,6 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+# ANSIBLE MANAGED BLOCK server1; DON'T insert your record after this comment!!!
+192.168.42.196 server1
+192.168.42.196 rosapteki.vm
+
